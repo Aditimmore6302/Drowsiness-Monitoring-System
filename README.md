@@ -11,5 +11,5 @@ we determine whether the eyes are open or they are closed.</br></br>
 <li>Now we are taking the ratio which is described as <i>'Sum of distances of vertical landmarks divided by twice the distance between horizontal landmarks'</i>.
 <li>Now this ratio is totally dependent on your system which you may configure accordingly for the thresholds of sleeping, drowsy, active.</ul>
 <p><img src="Active.png" align="center" height="350">
-<img src="https://raw.githubusercontent.com/infoaryan/Driver-Drowsiness-Detection/master/screenshots/drowsy.jpg" align="center" height="350">
+<img src="Drowsy.png" align="center" height="350">
 <img src="Sleepy.png" align="center" height="350">
